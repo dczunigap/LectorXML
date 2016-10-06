@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.events.XMLEvent;
 
-public class recursividad {
+public class Principal {
 	
 	public static void main(String[] args) {
 		Path dir = Paths.get("C:/Users/dzuniga/Desktop/CFDI_3D124BAD-2E16-4BC6-9CAC-359A396EDB14_28_01_2016");
